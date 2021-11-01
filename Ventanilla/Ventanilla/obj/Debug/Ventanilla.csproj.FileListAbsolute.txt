@@ -1,0 +1,12 @@
+C:\Users\Juan\source\repos\Ventanilla\Ventanilla\bin\Debug\Ventanilla.exe.config
+C:\Users\Juan\source\repos\Ventanilla\Ventanilla\bin\Debug\Ventanilla.exe
+C:\Users\Juan\source\repos\Ventanilla\Ventanilla\bin\Debug\Ventanilla.pdb
+C:\Users\Juan\source\repos\Ventanilla\Ventanilla\obj\Debug\Ventanilla.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\Ventanilla\Ventanilla\obj\Debug\Ventanilla.Form1.resources
+C:\Users\Juan\source\repos\Ventanilla\Ventanilla\obj\Debug\Ventanilla.Properties.Resources.resources
+C:\Users\Juan\source\repos\Ventanilla\Ventanilla\obj\Debug\Ventanilla.csproj.GenerateResource.cache
+C:\Users\Juan\source\repos\Ventanilla\Ventanilla\obj\Debug\Ventanilla.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\Ventanilla\Ventanilla\obj\Debug\Ventanilla.exe
+C:\Users\Juan\source\repos\Ventanilla\Ventanilla\obj\Debug\Ventanilla.pdb
+C:\Users\Juan\source\repos\Ventanilla\Ventanilla\obj\Debug\Ventanilla.GUI.MsjAgre.resources
+C:\Users\Juan\source\repos\Ventanilla\Ventanilla\obj\Debug\Ventanilla.GUI.MAten.resources
